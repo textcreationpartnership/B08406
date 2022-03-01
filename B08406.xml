@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to the wiser Jacobites, worthy their persual over a sober dish of coffee. Being a short theory of the present establishment, shewing its righteousness; that all may rejoice, and pray in faith for its peace / by W.B.</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08406</idno>
+            <idno type="STC">Wing B239A</idno>
+            <idno type="STC">ESTC R224616</idno>
+            <idno type="EEBO-CITATION">64550905</idno>
+            <idno type="OCLC">ocm 64550905</idno>
+            <idno type="VID">184341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184341)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to the wiser Jacobites, worthy their persual over a sober dish of coffee. Being a short theory of the present establishment, shewing its righteousness; that all may rejoice, and pray in faith for its peace / by W.B.</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. B. and sold by most booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text in two columns.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jacobites --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184341:1" rendition="simple:additions"/>
+            <head>A WORD to the Wiſer JACOBITES, Worthy their Peruſal <hi>Over a Sober Diſh of Coffee.</hi>
+            </head>
+            <head type="sub">Being a SHORT THEORY of the <hi>Preſent Eſtabliſhment,</hi> Shewing its Righteouſneſs; That all may Rejoice, and Pray in Faith, for its PEACE. <add>22. Oct. 1697.</add>
+            </head>
+            <byline>By <hi>W. B.</hi>
+            </byline>
+            <p>IN War, all things in Effect follow the Will of the ſtrongeſt, ſo far as his force reaches; but in <hi>Peace,</hi> Right muſt Rule; otherwiſe <hi>Peace</hi> is ſo far loſt, or turned into a Confederacy in Iniquity. That <hi>Peace</hi> may therefore be a Bleſſing, and do us good in the iſſue of Things; it muſt be in Conjunction with Righteouſneſs. But becauſe ſome think this impoſſible in the <hi>Peace</hi> of the Preſent Eſtabliſhment, others are doubtful about it, others believe it may be, but upon ſuch Principles, as being practi<g ref="char:EOLhyphen"/>ſed upon, would deſtroy all <hi>Peace:</hi> To ſecure therefore the Bleſſing of our <hi>Peace</hi> the better (ſince God hath at laſt granted it to the Prayers of good Men) it may be of ſome uſe, briefly to ſhew the Righteouſneſs of the Preſent Eſtabliſhment, by its accord with the natural Laws of Right in God's Kingdom over Men.</p>
+            <p>To me it ſeems very plain, that a Man's Right in a thing is nothing but the Command, which his Will hath over that thing; and I know none otherwiſe minded: And it being ſo, (1.) I cannot underſtand, how the thing that is at the Command of no Man's Will, is in any Man's Right, and if it be not, it is in a State of Immunity. And, (2.) If any fingle Man comes afterward to have a thing ſuch at the Com<g ref="char:EOLhyphen"/>mand of his Will, he has the Right in it; therefore nothing but Poſſeſſion, which is the having a thing at the Command of ones Will, is in Nature the Original Title of Right. This Poſſeſſion happens either by natural Donation, or by Acquiſition, which Acquiſition is either by the exerciſe of a Man's natural Power, or the Act of another.</p>
+            <p n="1">1. Excepting Parental Rights, or ſuppoſing them remit<g ref="char:EOLhyphen"/>ted by the Mancipation of the Child; pure Nature in the firſt inſtance makes a Man himſelf, and none other; the Ma<g ref="char:EOLhyphen"/>ſter and Owner of his own Body and its Members, by put<g ref="char:EOLhyphen"/>ting them under the Command of his Will, and conſequent<g ref="char:EOLhyphen"/>ly gives him a Right and Property in them. Overlooking this, gave the fatal Occaſion to an irreligious. Man, to draw up that monſtrous Doctrine of <hi>Hobbs</hi> his Politicks. For though it be not more evident, that the Boughs in the Wood belong to that Tree, which they grow upon, and none other; then it is evident, that Nature hath put my Limbs under the Command of my own Will, and of none others; yet he will have it, That Nature makes nothing one Mans (that is at the Command of one Man's Will) more than another.</p>
+            <p n="2">2. If I command theſe Limbs by the Dictate of my Will to procure natural Suſtenance, I do but make uſe of my own Right; and it is Juſt, becauſe the Uſe of a natural Right; and it is Good, becauſe it is to ſave a Life; and doing what is Juſt and Good, is the Exerciſe of a Vertue: So far Domi<g ref="char:EOLhyphen"/>nion is founded in Grace; for excepting a Man's Right in his own Body, or Rights conferr'd upon him by the Act of another; a Man hath no Dominion over any thing, but by the Exerciſe of this Vertue of Induſtry.</p>
+            <p n="3">3. If by this exerciſe of Vertue, he compaſſes any thing (in a State of Immunity) uſeful for Life, a Beaſt, a Fowl, a Fiſh, Fruit, or the like; that is then reduced under the Command of his Will, and he hath therefore a Right in it; which Right being gained by the uſe of his natural Pow<g ref="char:EOLhyphen"/>ers, may be called an acquired natural Right.</p>
+            <p n="4">4. But that any thing was then in a poſture and place where he could mancipate it, was to him a Contingency by the Diſpoſition of Divine Providence: God therefore brought ſuch a thing to him, and delivered it into his Hand, and conſequently gave him a Right to it by this providential Diſpoſal, as he did to his own Body by framing his Humane Nature, from whence reſults the ſacredneſs of natural Rights, and the Divine Bleſſing in them.</p>
+            <p n="5">5. The Poſſeſſion of a thing acquired by the voluntary Act of another, gives a Right liable to be rebated, and is actually rebated, ſo far as the ſeveral Caſes make it.</p>
+            <p n="6">6. If another Man ſees me to want what he poſſeſſes, and will ſpare, and out of Commiſeration puts the thing into my Hand, this Poſſeſſion makes the thing in my <hi>Right:</hi> For tho' I ought to bleſs God for bleſſing him with ſuch Store, and inclining his Heart, and thank the Man for beſtowing it up<g ref="char:EOLhyphen"/>on me; yet if I pay neither of theſe Debts, the thing is no leſs in my Right, and he would deprive me of my Right, ſhould he take it from me for this neglect of my Duty to God and him; becauſe this was not the Condition of the things being put into my Power, but was left to the Pious and grateful Senſe of my own Mind.</p>
+            <p>The ſame Meaſures held, and ſomewhat more ſtrongly on both ſides, if I receive his Alms upon my humbly Intreaty, becauſe I did hereby abuſe my ſelf to him, and he condeſcen<g ref="char:EOLhyphen"/>ded to one, that was not only broken in his Fortune, but in his Spirit likewiſe.</p>
+            <p n="7">7. If ſome grateful Sign of acknowledging it a kindneſs be ſtipulated for, as the Condition of delivering the thing into my Hand: Should I upon the Receipt of it fail in this he hath a Right to require it of me, and I ought to reſtore it; but he hath no Right to take it from me by Violence or Surreption, and he deprives me of my Right, if he does.</p>
+            <p n="8">8. If he ſignifies, he would not deliver it into my Hand, unleſs I will reſtore it, or an equivalent to him again; I am bound, if I take it, to Reſtoration accordingly; and if I do it not, he hath a Right of making Reprizals upon me, and I have none to hinder him.</p>
+            <p n="9">9. But though I received it upon Condition of Reſtorati<g ref="char:EOLhyphen"/>on and no otherwiſe, ſhould any other Man take it out of my Poſſeſſion; he deprives me of my Right. And if he that poſſeſſed me of it, ſhould Die without Heirs, before I actually had reſtored it; I am the proper Owner of it, meerly by having it in my Poſſeſſion. So much for Rights founded upon the Title of Poſſeſſion, which are the Rights from which all others are derived.</p>
+            <p n="10">10. If then another doth not actually put me into Poſſeſ<g ref="char:EOLhyphen"/>ſion of the thing, but Promiſes he will at ſuch a Time; I have at that time a Right to the thing, but no Right to take it from him, but he is bound to deliver it unto me. But if I have given him a valuable Conſideration for doing of it, and he does it not, I have a Right of Reprizal, and he hath none to hinder me; ſo that all Rights of this Nature, when the thing is not in the Owners Poſſeſſion, are <hi>Pactitious:</hi> of which there are two Kinds, either explicitely, or impli<g ref="char:EOLhyphen"/>citely; and if Candour, Equity, Sincerity, <hi>&amp;c.</hi> be Vertues, there is no difference in the Obligation of an explicite or implicite Pact; and upon one of theſe two, are grounded all the Rights betwixt Subjects and Governours, and cannot be underſtood otherwiſe, for ought ever I could ſee.</p>
+            <p n="11">11. Whether the Late King <hi>James</hi> diſpoſſeſſed himſelf of his Kingdom, or was diſpoſſeſſed by others, ſeeing he cer<g ref="char:EOLhyphen"/>tainly now is not in the Poſſeſſion of it; but another is, he can have no natural Right now by the Title of Poſſeſſion;
+<pb facs="tcp:184341:2"/>and therefore King <hi>James</hi> hath no Right at all, unleſs what is Pactitious: But no Man hath any Right by Pact, but what is agreed to by the Parties contracting; now the Political Compact in <hi>England</hi> (ſince the Crown is Imperial) can have no Parties in it, but the King and the People; and therefore it muſt be either betwixt the King and the People, of elſe betwixt the People one with another.</p>
+            <p n="12">12. Amongſt theſe it is agreed, the People being diſtribu<g ref="char:EOLhyphen"/>ted into Lords and Commons, ſhall give their Conſent in two Eſtates; and unleſs theſe two Eſtates in Parliament with the King agree in the Matter, nothing ſhall be had to be an Article of the Agreement by the Authority of the Kingdom, which the Subject by his Allegiance or Duty of Subjection to the Sovereign is bound to obſerve. And therefore it is a<g ref="char:EOLhyphen"/>greed, that the King ſhall govern thus by Laws, <hi>Quas Po<g ref="char:EOLhyphen"/>pulus ipſe ſibi elegerit.</hi>
+            </p>
+            <p n="13">13. But it was never agreed explicitely or implicitely, be<g ref="char:EOLhyphen"/>twixt King <hi>James</hi> and the People of <hi>England,</hi> that the Go<g ref="char:EOLhyphen"/>vernment ſhould be adminiſtred by Popiſh Officers; but on the contrary, King <hi>James</hi> and the People were expreſly a<g ref="char:EOLhyphen"/>greed, that the Government of the Land ſhould not be ad<g ref="char:EOLhyphen"/>miniſtred by Popiſh Officers. When therefore the Late King <hi>James</hi> after <hi>Monmouth</hi>'s Invaſion, did in his Speech de<g ref="char:EOLhyphen"/>clare to the People in Parliament (that is, the other Party in the Contract) that he would not Govern without Popiſh Officers, nor ſuffer any one to gain-ſay him in it, and pro<g ref="char:EOLhyphen"/>ved he was in very great earneſt by the reſt of his whole Reign; he expreſly diſagreeing to the known and owned Agreement betwixt the King and People of <hi>England,</hi> there was thence forward no Agreement betwixt the King and People (the Parties Contracting) there was therefore no Government at all agreed unto betwixt them; not a Go<g ref="char:EOLhyphen"/>vernment adminiſtred without Popiſh Officers, for that the King had ſolemnly diſagreed unto, and reſolutely perſiſted in, all his Time: Not a Government adminiſtred by Popiſh Officers, for that the People (the other Party) had not conſented to, and therefore (as I ſaid) there was then no Government agreed to betwixt them: And becauſe no pra<g ref="char:EOLhyphen"/>cticable Government was agreed upon, there could be no Governour actually agreed to: For to Conſent to a Gover<g ref="char:EOLhyphen"/>nour, and not to the Government, is to Conſent to no<g ref="char:EOLhyphen"/>thing, but an inſignificant Word.</p>
+            <p n="14">14. As we ſee the People in a Political State, all making one Party contracting, did not Conſent in Parliament: So in their natural Perſons its certain, they had not agreed one with another, that the Government ſhould be adminiſtred in King <hi>James</hi> his Reign by Popiſh Officers; wherefore there being no Agreement in the Nation about the Govern<g ref="char:EOLhyphen"/>ment of it, King <hi>James</hi> could from thence have no Right by Agreement; that is, he had no Pactitious Right to the Government; and ſince he hath none by the natural Right of Poſſeſſion, its plain he hath no Right now to the Government of <hi>England.</hi>
+            </p>
+            <p n="15">15. When King <hi>James</hi> refuſed to ſtand to the National Compact, the People were put into a State of Deliberation; whether they would agree to King <hi>James</hi> his Government, or not; but there is no Reaſon to doubt, but they had their Choice, being certainly in no Agreement with King <hi>James</hi> about any Government at all: But though they could not be bound by the Rights of an Agreement about the Govern<g ref="char:EOLhyphen"/>ment, when there was no ſuch Agreement; yet were they bound to obſerve all the private natural Rights by Poſſeſſi<g ref="char:EOLhyphen"/>on, and the Pactitious Rights by Private Contracts amongſt themſelves.</p>
+            <p n="16">16. And for the Re-eſtabliſhing of the Government, the meaſures to be obſerved in a State of Deliberation (wherein Men muſt be ſuppoſed free) are Counſels directed by the Rule of Charity; the Sum of which is, to do that, which upon a true Eſtimation of all Particulars, is beſt for the whole: What that is, was difficult to be Reſolved, whilſt King <hi>James</hi> was upon the Throne; and therefore its no wonder, if even good Men differed in their Opinion about it, ſome being for eſtabliſhing a new Governour, others not. But when that King was out of Poſſeſſion, the Caſe was but thus (it being equally Juſt to have either) whether was moſt for the Good and Benefit of <hi>England,</hi> to have King <hi>James,</hi> or the Prince anti Princeſs of <hi>Orange</hi> eſtabliſhed in the Go<g ref="char:EOLhyphen"/>vernment; and the Body of the Nation being Proteſtants, this was no hard Queſtion to be Reſolved.</p>
+            <p n="17">17. King <hi>James</hi> his Refuſal to ſtand to the Agreement taken preciſely, is in ſtrict Propriety not to be called a wrong to the People of <hi>England;</hi> but unkind, unmerciful, ungrateful, uncharitable, <hi>&amp;c.</hi> For though the People are bound abſolutely to obey according to the Agreement, yet the King by the Contract is not bound to govern, no not by the Coronation Oath; but only, if that he will govern, to govern no otherwiſe then is agreed; but he may Reſign when he will without Violation of his Oath; which if he does, and the People have another Sovereign; if he would re<g ref="char:EOLhyphen"/>aſſume his Government, we are Traytors and Rebels, if we aſſiſt him to recover his Late Right: If he will attempt it by Force, he is to be Reſiſted as an Enemy; and ſo he is, if he attempt it, being faln from his Right any other Way.</p>
+            <p n="18">18. Becauſe not the owning, but the ſitting in a Seat, fills the Seat; if no one ſits in the Seat, the Seat is empty, tho' it hath an owner; for he that ſits in the Seat, hath the Seat in Occupation or Poſſeſſion; if then no one hath the Throne in Poſſeſſion, the Throne is plainly Vacant, whether it be Hereditary or no. But, unleſs the then Prince of <hi>Orange</hi> by taking upon him (at the Requeſt of the Lords and others) the Adminiſtration of Publick Affairs, was in Poſſeſſion of the Throne; it is certain, when King <hi>James</hi> had withdrawn himſelf out of the Kingdom, in the Manner he did; neither He, nor any one elſe, was in Poſſeſſion: Therefore the Throne was then Vacant, according to the Lords and Com<g ref="char:EOLhyphen"/>mons Vote.</p>
+            <p n="19">19. Both Houſes acknowledging the Crown Hereditary; we muſt firſt obſerve, every Heir that inherits, enters by Vertue of a Right, that was inherent in the Dying Perſon, and by Death, and no other Way, immediately devolves upon him. So that no one can enter upon the Government by the Title of King <hi>James</hi> his Heir, whilſt himſelf is Living; and ſince King <hi>James</hi> has loſt his Right (as was ſhewed above) no Right of Governing inherent in him at his Death (<hi>rebus ſic ſtantibus</hi>) can be derived from him to any Heir whatſoe<g ref="char:EOLhyphen"/>ver; and becauſe it is thus impoſſible for any to Inherit the Crown from King <hi>James</hi> Living or Dying; when that King parted with the Right of the Government, as he did from himſelf, he likewiſe parted with it from his Heirs; having made it naturally impoſſible for the Crown to deſcend at all by the Right of Inheritance.</p>
+            <p n="20">20. The Ground being Cleared, The Convention were to take Care to re-eſtabliſh the Government for the good of the Nation. If then they left us not in Anarchy, but ſet up a Government, and that Monarchical, not Ariſto<g ref="char:EOLhyphen"/>cratical, or Democratical; Hereditary, not Elective, in the Royal, and no other Family; by the next in the Right Line, as far as can be known, taking no Notice of one, of whom no Notice was or could be given ſufficient for the reaſonable belief of the main Body of the Nation; that is, if they placed one as the Preſumptive Heir (when there was in Truth no Heir Apparent) upon the Throne of the Kingdom, and eſtabliſhed the ſame Rights, Laws, Liber<g ref="char:EOLhyphen"/>ties, Priviledges, and Religion, nothing could be more wiſely ordered, ſo far as Man can ſee.</p>
+            <p n="21">21. If the Throne was not filled by Vertue of the Heirs Title, as in an ordinary Caſe; King <hi>James,</hi> having ren<g ref="char:EOLhyphen"/>dred that impoſſible to be done in Nature, muſt bear the blame of that, the People of <hi>England</hi> are Free. The pre<g ref="char:EOLhyphen"/>ſent King, and then Prince of <hi>Orange,</hi> had merited an Ad<g ref="char:EOLhyphen"/>miſſion into a Confort-ſhip in the Sovereignty with his Wife, by the Judgment and Joyful Acknowledgment, of the next in the Right Line; and the People, which accor<g ref="char:EOLhyphen"/>dingly was conſented to by them the Parties in the Cove<g ref="char:EOLhyphen"/>nant. And the Princeſs being a Subject of <hi>England,</hi> as ſuch, Conſents to the Acts of the Legiſlator; and therefore all her Political Rights in the Kingdom, are ſecured, and none violated by the preſent Eſtabliſhment; wherein, be<g ref="char:EOLhyphen"/>cauſe all Rights are ſaved, which King <hi>James</hi> left natural<g ref="char:EOLhyphen"/>ly poſſible to be saved, may Heaven and Earth ſay <hi>Amen, Amen,</hi> to its Peace and Proſperity.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>S. B.</hi> And Sold by moſt Bookſellers of <hi>London,</hi> and <hi>Weſtminſter,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
